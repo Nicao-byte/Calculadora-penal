@@ -1,0 +1,5 @@
+bash
+
+git add vercel.json
+git commit -m "Add vercel.json configuration"
+git push origin main
